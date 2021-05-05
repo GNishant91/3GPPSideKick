@@ -1,0 +1,2 @@
+# 3GPPSideKick
+Find &amp; download 3GPP specs, TDocs &amp; contribution templates with minimum efforts. Just put in the number &amp; sidekick will find it. For all 3GPP standards enthusiasts, an extension that helps you find and download standard specifications, TDocs and meeting contribution templates with minimum efforts. Just put in the specifications number or TDoc number &amp; it will fetch it for you. For meeting contribution templates, simply select the group and the meeting, and it will open the FTP folder with the templates.
